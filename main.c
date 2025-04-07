@@ -1,3 +1,7 @@
+// Name-karan kumar
+// Roll no. 2415000771 (35)
+// Section-AF-1
+
 #include <stdio.h>
 #include "my.h"
 int main() {
