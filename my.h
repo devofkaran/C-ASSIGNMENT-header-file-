@@ -1,8 +1,3 @@
-#ifndef MY_H
-#define MY_H
-
-
-
 int factorial(int num1) {
     int fact = 1;
     for (int i = 2; i <= num1; i++) {
@@ -27,4 +22,3 @@ int is_strong(int num3) {
     return sum == num3;
 }
 
-#endif
